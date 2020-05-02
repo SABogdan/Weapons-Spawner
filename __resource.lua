@@ -1,0 +1,1 @@
+client_script 'weaponspawner.net.dll'
