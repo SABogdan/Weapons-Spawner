@@ -1,1 +1,1 @@
-client_script 'weaponspawner.net.dll'
+client_script 'WeaponSpawner.net.dll'
